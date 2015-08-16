@@ -1,5 +1,5 @@
 Universal Starter Kit to build any javascript ES6 project/library runnable in nodejs and on any browser
-====================
+=====================
 
 [![Build Status][travis-image]][travis-url]
 
